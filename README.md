@@ -5,8 +5,8 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Gabriel Dário Matos Clemente
+- Matrícula: 928004
 
 ## Prints do console do navegador
 
